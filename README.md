@@ -1,2 +1,7 @@
 # Modulo11
-Exercises with classes in js(properties, constructor, methods, static methods, getters and setters, inheritance...)
+Exercises with Classes in Javascript:
+· Properties
+· Constructor
+· Methods and static methods
+· Getters and setters
+· Inheritance...
